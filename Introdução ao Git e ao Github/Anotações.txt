@@ -1,0 +1,2 @@
+link para download do Git: https://git-scm.com/downloads
+O Git é um sistema de controle de versão distribuída de código aberto e gratuito projetado para lidar com tudo, desde projetos pequenos até grandes com velocidade e eficiência.
